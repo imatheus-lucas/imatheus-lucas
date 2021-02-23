@@ -21,7 +21,7 @@ My name is Matheus and I'm full-stack developer Javascript.
 <img height="26" alt="TypeORM" src="https://typeorm.io/image/favicon/safari-pinned-tab.svg" color="#fff"> &nbsp;
 
 ### Other Languages: <br>
-<img height="26" alt="CSharp" src="https://raw.githubusercontent.com/simple-icons/simple-icons/f464deebc2e6ecfe8da62fac3399a25141cb56f9/icons/csharp.svg"> &nbsp;
+<img height="26" alt="CSharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> &nbsp;
 <img height="26" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> &nbsp;
 
  - 💙 In love with JavaScript
