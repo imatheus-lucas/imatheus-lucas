@@ -20,9 +20,6 @@ My name is Matheus and I'm full-stack developer Javascript.
 <img height="26" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
 <img height="26" alt="TypeORM" src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" color="#fff"> &nbsp;
 
-### Other Languages: <br>
-<img height="26" alt="CSharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> &nbsp;
-<img height="26" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> &nbsp;
 
  - 💙 In love with JavaScript
  - 🌱 Currently learning React.js, React-Native and NodeJs
